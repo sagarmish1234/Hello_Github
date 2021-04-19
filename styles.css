@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Zen Dots;
+    src: url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+  }
+
+  span.text-light.brand_name {
+    font-family: 'Zen Dots', cursive;
+}
